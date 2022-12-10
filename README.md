@@ -1,4 +1,4 @@
-# Frontend Mentor - Article preview component solution using NEXT jS, Tailwind CSS, and Framer Motion
+# Frontend Mentor - Article preview component solution using NEXT.JS 13, Tailwind CSS, and Framer Motion
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
